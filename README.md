@@ -8,6 +8,6 @@
 
 ___
 
-<img src="https://github.com/jglovier/gifs" alt="https://github.com/jglovier/gifs" width="600" />
+<img src="https://github.com/jglovier/gifs/blob/gh-pages/thumbs-up/jakie-chan-thumbsup.gif" alt="jakie-chan-thumbsup.gif" width="600" />
 
 ___
