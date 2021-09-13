@@ -8,6 +8,6 @@
 
 ___
 
-<img src="https://github.com/jglovier/gifs" alt="gifs" width="600" />
+<img src="https://github.com/jglovier/gifs" alt="jglovier/gifs" width="600" />
 
 ___
