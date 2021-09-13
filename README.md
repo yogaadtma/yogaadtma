@@ -7,3 +7,5 @@
 </p>
 
 ___
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif"
